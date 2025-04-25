@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Slayder Reyes
-### - 🔭 I’m currently working on Boton Promo as Web Developer
+### - 🔭 I’m currently working at Boton Promo as Web Developer
 <!--
 **Slaternight/Slaternight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
