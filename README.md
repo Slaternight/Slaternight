@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Slaternight
 
-Soy un desarrollador frontend con experiencia en **React**, **Sass**, **JavaScript** y tecnologías modernas del ecosistema web.
+Soy Desarrollador Frontend con experiencia en **React**, **Sass**, **JavaScript** y tecnologías modernas del ecosistema web.
 🛠️ Actualmente trabajo en el desarrollo de sitios de ecommerce y me enfoco en crear experiencias visuales atractivas y funcionales.
 
 ## 🚀 Tecnologías y herramientas
