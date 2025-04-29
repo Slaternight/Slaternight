@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">¡Hola! Soy Slaternight
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">¡Hi there! I'm Slaternight
 
 I am a Frontend Developer with experience in **React**, **Sass**, **JavaScript** and modern web ecosystem technologies. <br> I currently work in e-commerce development, focusing on creating engaging and functional visual experiences.
 
