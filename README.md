@@ -1,9 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">¡Hola! Soy Slaternight
 
-Soy Desarrollador Frontend con experiencia en **React**, **Sass**, **JavaScript** y tecnologías modernas del ecosistema web.
-🛠️ Actualmente trabajo en el desarrollo de sitios de ecommerce y me enfoco en crear experiencias visuales atractivas y funcionales.
+I am a Frontend Developer with experience in **React**, **Sass**, **JavaScript** and modern web ecosystem technologies. <br> I currently work in e-commerce development, focusing on creating engaging and functional visual experiences.
 
-## 🚀 Tecnologías y herramientas
+## 🚀 Technologies and tools 🛠️
 
 - 💻 HTML, CSS, JavaScript, SASS
 - ⚛️ React & TypeScript
@@ -14,11 +13,11 @@ Soy Desarrollador Frontend con experiencia en **React**, **Sass**, **JavaScript*
 - 🧪 Postman para pruebas de APIs
 - ⚙️ Git, Webpack, VSCode
 
-## 🧩 Algunos proyectos recientes
+## 🧩 Some recent projects
 
 - **https://esferos.com** – Sitio web personalizado hecho en Shopify ⛺
 
-## 📫 Contacto
+## 📫 Contact
 
 - https://www.linkedin.com/in/slayder-reyes-cuellar-2b7b801a0/
 - https://www.behance.net/slayderreyes/projects
@@ -26,4 +25,4 @@ Soy Desarrollador Frontend con experiencia en **React**, **Sass**, **JavaScript*
 
 ---
 
-_Siempre aprendiendo y buscando nuevos desafíos 🚀_
+_Always learning and searching for new challenges 🚀_
