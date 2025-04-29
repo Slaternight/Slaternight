@@ -11,7 +11,7 @@ Soy un desarrollador frontend con experiencia en **Shopify**, **Liquid**, **Java
 
 ## 🧩 Algunos proyectos recientes
 
-- **https://esferos.com** – Breve descripción o tecnología usada
+- **https://esferos.com** – Sitio web personalizado hecho en Shopify ⛺
 
 ## 📫 Contacto
 
