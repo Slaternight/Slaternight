@@ -15,7 +15,7 @@ I am a Frontend Developer with experience in **React**, **Sass**, **JavaScript**
 
 ## 🧩 Some recent projects
 
-- **https://esferos.com** – Sitio web (e-commerce) personalizado hecho en Shopify ⛺
+- **https://esferos.com** – Custom e-commerce website built on Shopify ⛺
 - **https://bombatex.com**
 - **https://fliv.com**
 - **https://tienda.fliv.com**
