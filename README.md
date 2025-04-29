@@ -1,13 +1,18 @@
 # 👋 ¡Hola! Soy Slaternight
 
-Soy un desarrollador frontend con experiencia en **Shopify**, **Liquid**, **JavaScript** y tecnologías modernas del ecosistema web. Actualmente trabajo en el desarrollo de sitios de ecommerce y me enfoco en crear experiencias visuales atractivas y funcionales.
+Soy un desarrollador frontend con experiencia en **React**, **Sass**, **JavaScript** y tecnologías modernas del ecosistema web.
+🛠️ Actualmente trabajo en el desarrollo de sitios de ecommerce y me enfoco en crear experiencias visuales atractivas y funcionales.
 
 ## 🚀 Tecnologías y herramientas
 
-- 🛒 Shopify (Liquid, Shopify CLI, Shopify Simulator)
 - 💻 HTML, CSS, JavaScript, SASS
+- ⚛️ React & TypeScript
+- 🛒 Shopify (Liquid, Shopify CLI, Shopify Simulator)
+- 🧠 UI/UX (Figma, prototipado, diseño responsivo)
+- 🌐 WordPress & PrestaShop
+- 🎨 Adobe Creative Cloud (Illustrator, Photoshop, XD)
+- 🧪 Postman para pruebas de APIs
 - ⚙️ Git, Webpack, VSCode
-- 🎨 Figma, diseño responsive
 
 ## 🧩 Algunos proyectos recientes
 
