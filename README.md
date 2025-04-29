@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Slaternight
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">¡Hola! Soy Slaternight
 
 Soy Desarrollador Frontend con experiencia en **React**, **Sass**, **JavaScript** y tecnologías modernas del ecosistema web.
 🛠️ Actualmente trabajo en el desarrollo de sitios de ecommerce y me enfoco en crear experiencias visuales atractivas y funcionales.
