@@ -26,7 +26,7 @@ I am a Frontend Developer with experience in **React**, **Sass**, **JavaScript**
 
 ## 📫 Contact
 
-- https://www.linkedin.com/in/slayder-reyes-cuellar-2b7b801a0/
+- https://www.linkedin.com/in/slaternight/
 - https://www.behance.net/slayderreyes/projects
 - 📧 slaternightdev@gmail.com
 
